@@ -1,5 +1,5 @@
-# FEWD-challenge1
-Front-End Web Development Bootcamp course - challenge1
+# FEWD-challenge1final
+Front-End Web Development Bootcamp course - challenge1final
 
 ## Description
 
