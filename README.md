@@ -46,7 +46,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 ![mock up view)(https://courses.bootcampspot.com/courses/3031/files/2370917/preview)
 ```
 
-<!-- I feel like this hasnt rendered correctly but will go over with tutor this week -->
+( I feel like this hasnt rendered correctly but will go over with tutor this week ) I also put this in the comment syntax but it disappeared so keeping it just like this for now!
 
 ## Credits
 
